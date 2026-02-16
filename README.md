@@ -1,7 +1,7 @@
 # Hi, I'm Akindu Imantha 👋
 
-<img width="306" height="325" alt="image" src="https://github.com/user-attachments/assets/e996eca7-5c50-499c-a285-e6791f22f388" />
- BIT Undergraduate - University of Moratuwa  
+
+🎓 BIT Undergraduate - University of Moratuwa  
 🔐 Cyber Security Student - SLTC  
 💻 Full Stack Developer (Laravel, React, Java)  
 🌱 Currently Learning: Secure Web Applications & DevOps  
