@@ -1,6 +1,6 @@
 # Hi, I'm Akindu Imantha 👋
 
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Cyber+Security+Student;Full+Stack+Developer;Secure+System+Builder)
 🎓 BIT Undergraduate - University of Moratuwa  
 🔐 Cyber Security Student - SLTC  
 💻 Full Stack Developer (Laravel, React, Java)  
