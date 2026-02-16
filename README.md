@@ -1,6 +1,7 @@
 # Hi, I'm Akindu Imantha 👋
 
-🎓 BIT Undergraduate - University of Moratuwa  
+<img width="306" height="325" alt="image" src="https://github.com/user-attachments/assets/e996eca7-5c50-499c-a285-e6791f22f388" />
+ BIT Undergraduate - University of Moratuwa  
 🔐 Cyber Security Student - SLTC  
 💻 Full Stack Developer (Laravel, React, Java)  
 🌱 Currently Learning: Secure Web Applications & DevOps  
@@ -9,10 +10,10 @@
 
 ## 🚀 Projects
 
-🔹 E-Waste Management System
+🔹 E-Waste Management System(React + Nodejs + MySql)
 🔹 School Management System (Laravel + React)
-🔹 Vehicle Rental System (Java OOP)
 🔹 Hospital Management System (C# + MSSQL)
+🔹 Vehicle Rental System (Java OOP)
 
 ---
 
@@ -20,8 +21,8 @@
 
 Programming: Java | PHP | C# | SQL
 Frameworks: Laravel | React
-
 Tools: Git | XAMPP | MySQL | Android Studio | Figma
+Graphics: Adobe Ps | Ai | Ae | Primer Pro | Lightroom 
 
 ---
 
