@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Akindu Imantha 👋
 
-<!--
-**12345akindu/12345akindu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BIT Undergraduate - University of Moratuwa  
+🔐 Cyber Security Student - SLTC  
+💻 Full Stack Developer (Laravel, React, Java)  
+🌱 Currently Learning: Secure Web Applications & DevOps  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+🔹 E-Waste Management System
+🔹 School Management System (Laravel + React)
+🔹 Vehicle Rental System (Java OOP)
+🔹 Hospital Management System (C# + MSSQL)
+
+---
+
+## 🛠 Skills
+
+Programming: Java | PHP | C# | SQL
+Frameworks: Laravel | React
+
+Tools: Git | XAMPP | MySQL | Android Studio | Figma
+
+---
+
+## 📫 Contact Me
+
+- Email: akindu666imantha@gmail.com 
+- LinkedIn: https://www.linkedin.com/in/akindu-rupasingha-96839a315
