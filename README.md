@@ -1,28 +1,49 @@
-# Hi, I'm Akindu Imantha 👋
+# 👋 Hi, I'm Akindu Imantha
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Cyber+Security+Student;Full+Stack+Developer;Secure+System+Builder)
-🎓 BIT Undergraduate - University of Moratuwa  
-🔐 Cyber Security Student - SLTC  
-💻 Full Stack Developer (Laravel, React, Java)  
-🌱 Currently Learning: Secure Web Applications & DevOps  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Cyber+Security+Student;Full+Stack+Developer;Graphic+Designer;UI%2FUX+Enthusiast)
 
 ---
 
-## 🚀 Projects
+## 🛡️ About Me
+🎓 BIT Undergraduate – University of Moratuwa  
+🔐 Cyber Security Student – SLTC  
+💻 Full Stack Developer (Laravel | React | Java)  
+🎨 Graphic Designer & UI/UX Enthusiast  
 
-🔹 E-Waste Management System(React + Nodejs + MySql)
-🔹 School Management System (Laravel + React)
-🔹 Hospital Management System (C# + MSSQL)
-🔹 Vehicle Rental System (Java OOP)
+I love building secure systems and designing clean, modern interfaces.
 
 ---
 
-## 🛠 Skills
+## 🎨 Creative Skills
 
-Programming: Java | PHP | C# | SQL
-Frameworks: Laravel | React
-Tools: Git | XAMPP | MySQL | Android Studio | Figma
-Graphics: Adobe Ps | Ai | Ae | Primer Pro | Lightroom 
+- Logo Design
+- Branding & Visual Identity
+- Social Media Design
+- UI/UX Wireframing
+- Photoshop / Illustrator
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Programming
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+### 🌐 Frameworks
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 🎨 Design Tools
+![Photoshop](https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobe-photoshop&logoColor=31A8FF)
+![Illustrator](https://img.shields.io/badge/Illustrator-330000?style=for-the-badge&logo=adobe-illustrator&logoColor=FF9A00)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma)
+
+---
+
+## 📊 GitHub Stats
+![Akindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=12345akindu&show_icons=true&theme=tokyonight)
 
 ---
 
